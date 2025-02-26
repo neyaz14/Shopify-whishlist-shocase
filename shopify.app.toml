@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "0bb2690dd4440606875f1a3bd02655c5"
-application_url = "https://function-sad-cad-spring.trycloudflare.com"
+application_url = "https://invitations-tee-enjoying-gross.trycloudflare.com"
 embedded = true
 name = "whishlist-showcase"
 handle = "whishlist-showcase"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://function-sad-cad-spring.trycloudflare.com/auth/callback",
-  "https://function-sad-cad-spring.trycloudflare.com/auth/shopify/callback",
-  "https://function-sad-cad-spring.trycloudflare.com/api/auth/callback"
+  "https://invitations-tee-enjoying-gross.trycloudflare.com/auth/callback",
+  "https://invitations-tee-enjoying-gross.trycloudflare.com/auth/shopify/callback",
+  "https://invitations-tee-enjoying-gross.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
